@@ -2,4 +2,4 @@
 
 2023th Hiroshima Univ. Doctoral thesis / Graduate School of Integrated Sciences for Life, Program of Mathematical and Life Sciences, Tetsushi Komoto
 
-Table S1~S12 を掲載
+Table S1~S5, S8~S12 を掲載
